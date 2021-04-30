@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/blogs HTTP/1.1
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJpZCI6IjYwOGFhZTdkZDcyN2YyNDA3YzNiYmVmMyIsImlhdCI6MTYxOTcwMTU3N30.0qTJCh38Vwf2bIZBUg6gQnHniadeaDCyGuAZqaZPCWw
+
+{
+    "title": "a",
+    "author": "a",
+    "url": "a"
+}
